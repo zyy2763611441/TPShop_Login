@@ -1,0 +1,4 @@
+hello
+2019-11-09 18:11:06,249 INFO [root] [app.py(<module>:47)] - hello
+2019-11-09 21:17:22,904 INFO [root] [app.py(<module>:47)] - hello
+2019-11-09 21:33:46,544 INFO [root] [app.py(<module>:47)] - hello
